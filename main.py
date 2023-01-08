@@ -19,3 +19,5 @@ if amal==('*'):
     kupaytiruv(raqam1,raqam2)
 if amal==('/'):
     buluv(raqam1,raqam2)
+
+# qayta yuklash
